@@ -11,6 +11,8 @@ library(rtweet)
 
 auth_setup_default()
 sam <- get_timeline("@SamanthaCsik", n=3200)
+RLadiesGlobal <- get_timeline("@RLadiesGlobal", n = 3200)
 
 write_csv(sam, "data/sams_tweets.csv")
+write_csv(RLadiesGlobal, "data/rladiesglobal_tweets.csv")
 ```
