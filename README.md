@@ -28,3 +28,5 @@ Twitter is apparently burning to the ground so I'm grabbing my tweets and bookma
 - https://www.youtube.com/watch?v=MQ5L3TSQVys
 - https://www.a11yproject.com/spotlight/
 - https://posit.co/blog/creating-apis-for-data-science-with-plumber/
+
+Also, this handy tool for scraping mastadon addresses from Twitter bios & handles: https://fedifinder.glitch.me/success.html 
